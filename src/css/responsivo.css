@@ -103,6 +103,10 @@
         padding: 64px 32px;
     }
 
+    #duvidas {
+        padding: 0 32px;
+    }
+
     footer {
         gap: 40px;
         flex-wrap: wrap;
